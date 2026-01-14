@@ -1,4 +1,6 @@
-public class Exercicio_de_fixacao {
+package introducao_java;
+
+public class ExercicioDeFixacao {
     public static void main(String[] args) {
         String product1 = "Computer";
         String product2 = "Office desk";

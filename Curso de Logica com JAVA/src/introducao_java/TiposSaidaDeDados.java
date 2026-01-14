@@ -1,8 +1,10 @@
+package introducao_java;
+
 import java.util.Locale;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class TiposSaidaDeDados {
     public static void main(String[] args) {
             int y =32;
             double x = 10.23233;

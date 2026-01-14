@@ -1,4 +1,6 @@
-public class funcoes_matematica {
+package introducao_java;
+
+public class FuncoesMatematica {
     public static void main(String[] args) {
         double x = 3.0;
         double y = 4.0;

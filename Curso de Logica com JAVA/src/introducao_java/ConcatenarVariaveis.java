@@ -1,4 +1,6 @@
-public class Concatenar_variaveis {
+package introducao_java;
+
+public class ConcatenarVariaveis {
     public static void main(String[] args) {
         String nome = "Maria";
         int idade = 31;

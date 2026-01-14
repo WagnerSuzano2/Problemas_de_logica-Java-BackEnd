@@ -1,6 +1,8 @@
+package introducao_java;
+
 import java.util.Scanner;
 
-public class Tipo_entrada_de_dados {
+public class TipoEntradaDeDados {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String x;
