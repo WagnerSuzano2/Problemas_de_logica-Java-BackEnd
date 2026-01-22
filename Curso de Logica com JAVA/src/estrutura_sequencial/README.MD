@@ -5,9 +5,9 @@ Este repositório contém a resolução da primeira fase de estudos em Java, foc
 ---
 
 ## 🚀 Tecnologias e Ferramentas
-* **Linguagem:** Java 17+ [cite: 2025-05-30]
-* **IDE:** IntelliJ IDEA [cite: 2025-05-30]
-* **Plataforma:** Beecrowd (Exercícios 1001 a 1021 + Desafio 1061) [cite: 2025-05-30]
+* **Linguagem:** Java 17+ 
+* **IDE:** IntelliJ IDEA 
+* **Plataforma:** Beecrowd (Exercícios 1001 a 1021 + Desafio 1061) 
 
 ---
 
@@ -15,11 +15,11 @@ Este repositório contém a resolução da primeira fase de estudos em Java, foc
 
 Durante este módulo, foram aplicados os seguintes fundamentos técnicos:
 
-* **Manipulação de I/O:** Uso da classe `Scanner` para leitura de tokens e `System.out.printf` para saídas formatadas com precisão decimal [cite: 2025-05-30].
-* **Gestão de Precisão:** Aplicação da técnica de **unidade mínima (centavos)** para cálculos financeiros, evitando erros de ponto flutuante binário [cite: 2025-05-30].
-* **Operadores e Lógica:** Uso intensivo do operador de resto (`%`) para algoritmos de decomposição (troco, conversão de tempo e idade) [cite: 2025-05-30].
-* **Biblioteca Math:** Implementação de métodos como `Math.pow()`, `Math.sqrt()` e `Math.abs()` [cite: 2025-05-30].
-* **Clean Code:** Nomenclatura de variáveis em **camelCase** e organização de pacotes [cite: 2025-05-30].
+* **Manipulação de I/O:** Uso da classe `Scanner` para leitura de tokens e `System.out.printf` para saídas formatadas com precisão decimal .
+* **Gestão de Precisão:** Aplicação da técnica de **unidade mínima (centavos)** para cálculos financeiros, evitando erros de ponto flutuante binário .
+* **Operadores e Lógica:** Uso intensivo do operador de resto (`%`) para algoritmos de decomposição (troco, conversão de tempo e idade) .
+* **Biblioteca Math:** Implementação de métodos como `Math.pow()`, `Math.sqrt()` e `Math.abs()` .
+* **Clean Code:** Nomenclatura de variáveis em **camelCase** e organização de pacotes .
 
 ---
 
@@ -36,7 +36,7 @@ Durante este módulo, foram aplicados os seguintes fundamentos técnicos:
 ---
 
 ## 🏆 Destaque Técnico: Problema 1061 (Tempo de um Evento)
-O exercício 1061 representou o maior desafio técnico desta fase, exigindo a leitura de entradas com delimitadores específicos (Strings e inteiros misturados) e a normalização de datas em segundos totais para garantir a precisão no cálculo de duração de eventos [cite: 2025-05-30].
+O exercício 1061 representou o maior desafio técnico desta fase, exigindo a leitura de entradas com delimitadores específicos (Strings e inteiros misturados) e a normalização de datas em segundos totais para garantir a precisão no cálculo de duração de eventos .
 
 ---
 
