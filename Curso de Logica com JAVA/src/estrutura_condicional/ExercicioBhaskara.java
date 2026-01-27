@@ -7,6 +7,7 @@ public class ExercicioBhaskara {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
+
         System.out.print("Digite o primeiro coeficiente da formula de Bhaskara: ");
         double a = sc.nextDouble();
         System.out.print("Digite o segundo coeficiente da formula de Bhaskara: ");
