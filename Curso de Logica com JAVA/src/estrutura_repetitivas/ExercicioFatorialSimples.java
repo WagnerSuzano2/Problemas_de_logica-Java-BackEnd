@@ -1,0 +1,17 @@
+package estrutura_repetitivas;
+
+import java.util.Scanner;
+
+public class ExercicioFatorialSimples {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int fatorial = 1;
+
+        for (int i = x; i >=1; i--) {
+            fatorial = fatorial * i;
+        }
+        System.out.println(fatorial);
+        sc.close();
+    }
+}
