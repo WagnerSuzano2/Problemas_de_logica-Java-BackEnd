@@ -11,17 +11,15 @@ public class ExercicioSomaDeImparesConsecutivos3 {
             int x = sc.nextInt();
             int y = sc.nextInt();
             int soma = 0;
-
             if (x % 2 == 0) {
                 x++;
             }
-
             for (int j = 1; j <= y; j++) {
                 soma += x;
                 x += 2;
             }
 
-            System.out.println(soma);
+            System.out.println(soma+"Total");
         }
         sc.close();
     }
